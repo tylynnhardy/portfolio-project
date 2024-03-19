@@ -60,9 +60,37 @@ h3 {
     padding: 50px;
   }
 }
+@media (max-width:900px) {
+  .about-content {
+    text-align: center;
+    padding:0;
+  }
+  .about-image {
+    margin-top: 10px;
+  }
+
+}
 .project-description p {
   line-height: 2;
   opacity: 0.8;
+}
+.about-content {
+  margin: 80px;
+  padding: 30px;
+}
+.about-content h1 {
+  font-size: 60px;
+}
+.about-content h2 {
+  font-size: 18px;
+}
+.about-content p {
+  line-height: 2;
+}
+.about-image {
+  max-width: 50%;
+  border-radius: 10px;
+  
 }
 footer {
   text-align: center;
