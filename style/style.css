@@ -121,6 +121,13 @@ nav a:hover, nav li.active a {
   border-radius: 10px;
   margin: 30px;
 }
+.contact-links {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+.contact-links:hover {
+  text-decoration: underline;
+}
 footer {
   text-align: center;
 }
