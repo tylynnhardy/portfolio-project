@@ -95,7 +95,6 @@ nav a:hover, nav li.active a {
   .about-image {
     margin-top: 10px;
   }
-
 }
 .project-description p {
   line-height: 2;
@@ -106,7 +105,7 @@ nav a:hover, nav li.active a {
   padding: 30px;
 }
 .content h1 {
-  font-size: 60px;
+  font-size: 50px;
 }
 .content h2 {
   font-size: 18px;
